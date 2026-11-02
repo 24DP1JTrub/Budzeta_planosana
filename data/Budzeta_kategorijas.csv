@@ -1,0 +1,7 @@
+Kategorijas_ID,Nosaukums,Procenti_no_summa,Summa_no_procentiem,Notereta_summa,Budzeta_ID
+1,edaa,40,1600.0,0.0,2
+2,dzivnieki,50,250.0,0.0,3
+3,ediens,10,50.0,0.0,3
+4,suhariki,1,5.0,0.0,3
+6,Ediens,30,540.0,25.0,4
+7,Nodokli,30,540.0,0.0,4
